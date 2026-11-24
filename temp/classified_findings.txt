@@ -1,0 +1,5 @@
+MEDIUM/Non-expiring password/user3/Configure password expiry
+CRITICAL/Non-root account with UID 0/user2/Remove unnecessary root privileges
+HIGH/Repeated failed login attempts/192.168.1.10/Investigate the source IP
+MEDIUM/SUID file found//usr/local/bin/helper/Review elevated privileges
+HIGH/World writable file or directory//opt/test.txt/Restrict write permissions

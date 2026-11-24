@@ -1,0 +1,5 @@
+Non-expiring password|user3|Configure password expiry
+Non-root account with UID 0|user2|Remove unnecessary root privileges
+Repeated failed login attempts|192.168.1.10|Investigate the source IP
+SUID file found|/usr/local/bin/helper|Review elevated privileges
+World writable file or directory|/opt/test.txt|Restrict write permissions
